@@ -4,7 +4,8 @@ Loads the Instagram JavaScript for embedding instagram's post.
 
 ## Inspiration
 
-[gatsby-plugin-twitter](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-twitter)
+- [gatsby-plugin-twitter](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-twitter)
+- [gatsby-plugin-instagram-embed](https://github.com/theowenyoung/gatsby-plugin-instagram-embed)
 
 ## Install
 
