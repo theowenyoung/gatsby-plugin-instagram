@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-instagram",
   "description": "Loads the Instagram JavaScript for embedding instagram's post.",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "author": "Owen Young <theowenyoung@gmail.com>",
   "bugs": {
     "url": "https://github.com/theowenyoung/gatsby-plugin-instagram/issues"
@@ -23,7 +23,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^2.0.0"
+    "gatsby": "^3.0.0"
   },
   "repository": {
     "type": "git",
